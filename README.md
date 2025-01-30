@@ -4,9 +4,11 @@
 ## Objective
 The objective of this report is to analyze the Shellshock vulnerability, a critical security flaw in Bash that allows attackers to execute arbitrary commands and potentially gain full system access. This report assesses the impact of Shellshock, explores attack vectors such as CGI web servers and OpenSSH, and highlights its potential use in data extraction, network exploitation, and denial-of-service attacks. Additionally, it provides remediation strategies, including applying security patches, restricting Bash access, monitoring network traffic, and implementing intrusion detection systems to mitigate the risk
 ### Skills Learned
-- Analyzing vulnerabilities and assessing attack vectors
-- Strengthening risk assessment and threat intelligence skills
+- Vulnerability analysis 
+- Risk assessment 
 - Ethical Hacking Practices
+- Threat intelligence
+- Assessing attack vectors
 
 ### Tools Used
 
